@@ -1,5 +1,5 @@
 # Google Chrome Cookies Stealer (GCC-Stealer)
-This tools aims to be a statically compiled binary that can decrypt the Chrome family browsers (Chrome, Brave and Chromium) cookies.
+This tools aims to be a statically compiled binary that can decrypt the Chrome family browsers (Chrome, Brave and Chromium) cookies..
 
 At the moment it works on Windows and Linux.
 
